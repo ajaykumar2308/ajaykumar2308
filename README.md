@@ -1,6 +1,6 @@
 ## Ajay Kumar
 
-Hi! I'm Ajay Kumar, a 3rd year B.Tech CSE student at Punjabi University Patiala. I'm passionate about Machine Learning and Artificial Intelligence and love working on projects that utilize these technologies.
+Hi! I'm Ajay Kumar, a 4th year B.Tech CSE student at Punjabi University Patiala. I'm passionate about Machine Learning and Artificial Intelligence and love working on projects that utilize these technologies.
 
 **Interests**
 
